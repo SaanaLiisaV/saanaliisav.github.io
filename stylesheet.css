@@ -1,1 +1,69 @@
-
+body {
+    color: #2b2929;
+    background-image: url(taustakuva.jpg);
+    font-family: helvetica, sans-serif, arial; 
+}
+h3{
+    padding-left: 20px;
+}
+h4{
+    padding-top: 20px;
+}
+h5{
+    padding-top: 50px;
+}
+.rounded-circle{
+    padding: 20px;
+}
+.kuva {
+    padding-top: 50px;
+    width: 350px;
+}
+.navbar {
+    padding: 20px;
+}
+.navbar-nav li {
+      padding-right: 25px;
+}
+.nav-link {
+      font-size: 1.1em;
+}
+.nav-link a:hover{
+  font-size: 2.2em;
+  color: rgb(188, 240, 17);
+}
+footer {
+      background-color: rgb(41, 40, 40);
+      color: #e4e3e4;
+}
+table {
+    font-family: helvetica, sans-serif, arial;
+}
+td, th {
+    border: 1px solid;
+    padding: 2px;
+    opacity: 0,2;
+}
+tr:hover {
+    background-color: #fbdad9;
+    opacity: 0,10;  
+}
+th {
+    color: white;
+    background-color: #3a3939;
+    padding-top: 12px;
+    padding-bottom: 12px;   
+}
+table,th,td {
+    padding: 3px;
+    margin: 20px;
+    border-bottom: 1px solid black;
+}
+thead {
+    border-style: outset;
+}
+caption {
+    text-align: left;
+    font-size: 180%;
+    color: #0f2f05;
+}

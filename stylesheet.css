@@ -56,7 +56,6 @@ th {
 }
 table,th,td {
     padding: 3px;
-    margin: 20px;
     border-bottom: 1px solid black;
 }
 thead {

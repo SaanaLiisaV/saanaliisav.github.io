@@ -6,11 +6,11 @@ Tämä projekti on staattinen verkkosivusto, joka esittelee luonnonvärjäystä 
 
 ## Kuvia projektista
 
-![Etusivu](images/etusivu.png)
-![Värigalleria](images/toinensivu.png)
-![Patinointi](images/kolmassivu.png)
-![Kurssit](images/neljassivu.png)
-![Footer](images/footer.png)
+![Etusivu](etusivu.png)
+![Värigalleria](toinensivu.png)
+![Patinointi](kolmassivu.png)
+![Kurssit](neljassivu.png)
+![Footer](footer.png)
 
 ## Käytetyt teknologiat
 
